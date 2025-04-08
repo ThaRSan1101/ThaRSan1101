@@ -15,3 +15,6 @@
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaRSan1101&show_icons=true&theme=radical) <br>
 
 
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/ThaRSan1101/ThaRSan1101/output/snake.svg" alt="Snake animation" />
