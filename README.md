@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Arultharisan
 
-🎓 2nd-year Computer Science student at Uva Wellassa University  
-💻 Passionate about Full-Stack Development
-🌱 Currently learning: Linux, React , PHP
+🎓 Computer Science undergraduate at Uva Wellassa University <br>
+💻 Passionate about Full-Stack Development  <br>
+🌱 Currently learning: Linux, React, PHP <br>
 🚀 Exploring open-source and contributing to cool projects  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/tharisan0111) | [Email](ariltharisan01@gmail.com)
 
@@ -12,4 +12,15 @@
 - 🎨 Also interested in: UI/UX Design, Video Editing, ML & Test Engineering
 
 ### 📈 GitHub Stats
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=arultharisan&show_icons=true&theme=radical)
+![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaRSan1101&show_icons=true&theme=radical) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaRSan1101&layout=compact&theme=tokyonight)
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
