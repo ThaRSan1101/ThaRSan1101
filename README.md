@@ -1,8 +1,8 @@
-﻿## Hi 👋, I'm Yoganathan Arultharisan
+﻿<h2 align="center">Hi 👋, I'm Yoganathan Arultharisan</h2>
 
 <!-- Replace the GIF with a video thumbnail linking to assets/video.mp4 -->
 <div align="center">
-<a href="assets/video.mp4"><img src="assets/thumb.png" width="400" height="300" alt="Watch my intro video"></a>
+<a href="assets/video.mp4"><img src="assets/thumb.png" width="100%" alt="Watch my intro video"></a>
 </div>
 
 <p align="center"><em>Full-Stack Developer & AI/ML Enthusiast — Uva Wellassa University (UWU), Sri Lanka</em></p>
