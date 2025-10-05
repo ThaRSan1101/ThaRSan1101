@@ -5,6 +5,10 @@
 <a href="assets/video.mp4"><img src="assets/thumb.png" width="100%" alt="Watch my intro video"></a>
 </div>
 
+---
+
+<br>
+
 <p align="center"><em>Full-Stack Developer & AI/ML Enthusiast — Uva Wellassa University (UWU), Sri Lanka</em></p>
 
 <div align="center">
@@ -14,9 +18,13 @@
 
 </div>
 
+<br>
+
 ---
 
-### 🚀 A little more about me...
+<br>
+
+<h3 align="center">🚀 A little more about me...</h3>
 
 ```javascript
 const tharisan = {
@@ -41,11 +49,17 @@ const tharisan = {
 }
 ```
 
+<p align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"> <em><b>I enjoy meeting new people</b> — feel free to say hi!</em>
+</p>
+
+<br>
 
 ---
 
-### 📊 GitHub Overview
+<br>
+
+<h3 align="center">📊 GitHub Overview</h3>
 
 <table border="0" cellpadding="0" cellspacing="0"><tr>
 <td valign="top"> 
