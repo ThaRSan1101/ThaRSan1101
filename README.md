@@ -5,10 +5,14 @@
 <a href="assets/video.mp4"><img src="assets/thumb.png" width="400" height="300" alt="Watch my intro video"></a>
 </div>
 
-<p><em>Full-Stack Developer & AI/ML Enthusiast — Uva Wellassa University (UWU), Sri Lanka</em></p>
+<p align="center"><em>Full-Stack Developer & AI/ML Enthusiast — Uva Wellassa University (UWU), Sri Lanka</em></p>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Yoganathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tharisan0111/)](https://www.linkedin.com/in/tharisan0111/)
 [![GitHub followers](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThaRSan1101/ThaRSan1101)
+
+</div>
 
 ---
 
