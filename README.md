@@ -6,50 +6,71 @@
 🚀 Exploring open-source and contributing to cool projects  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/tharisan0111) | [Email](ariltharisan01@gmail.com)
 
-# Hi, I’m Tharsan �
+<!-- Monochrome, minimal, and professional README -->
+# Tharsan — Full‑Stack Developer
 
-<Software Developer/>
+<p align="center">
+	<strong>Full‑Stack Developer</strong> • Modern web apps • AI/ML explorer
+</p>
 
-Full-Stack Developer | Building modern web apps & digital solutions with AI/ML interest.
-
-Live portfolio: https://ThaRSan1101.github.io
+[Live portfolio](https://ThaRSan1101.github.io) • [GitHub](https://github.com/ThaRSan1101) • [LinkedIn](https://www.linkedin.com/in/ThaRSan1101)
 
 ---
 
-## About me
+About
+-----
 
-I’m a Full-Stack Developer with 2+ years of programming experience. I’ve developed 5+ projects across academic, freelance, and personal work. I specialize in modern web technologies and full-stack development, and I’m currently exploring AI/ML.
+I build clean, maintainable web applications with a focus on performance and user experience. I have 2+ years of practical experience and 5+ completed projects spanning academic, freelance, and personal work.
 
-I enjoy learning new technologies and supporting others in the tech community.
+Core strengths
+- Clean front-end architecture (React, modern JS)
+- Node.js backends and REST APIs
+- Database design (MySQL) and deployment (Docker, AWS)
+- Rapid prototyping and product-minded development
 
-## Skills
+Skills
+------
 
-- Programming: C, Java, JavaScript, HTML, CSS, PHP, SQL
-- Frameworks/Libraries: React, Node.js, Tailwind CSS
-- Tools & Platforms: MySQL, Git, GitHub, Linux, Figma, Docker, AWS, Vercel, Netlify, Postman, REST APIs, Bootstrap
+- Languages: C, Java, JavaScript, HTML, CSS, PHP, SQL
+- Frameworks / Libraries: React, Node.js, Tailwind CSS
+- Tools: Git, GitHub, MySQL, Docker, Figma, Postman, Vercel, Netlify, AWS
 
-## Projects
+Projects (highlights)
+---------------------
 
-I’ve built 5+ projects including full-stack applications and responsive web apps. Project repos and live demos can be added here as you deploy them.
+- Project A — Modern full‑stack app (React + Node.js). [Repo](#) • [Live](#)
+- Project B — Responsive e-commerce prototype. [Repo](#)
+- Project C — University capstone web app. [Repo](#)
 
-## Contact
+Tip: replace the placeholders above with links to the specific project repos or live demos.
+
+Contact
+-------
 
 - LinkedIn: https://www.linkedin.com/in/ThaRSan1101
 - GitHub: https://github.com/ThaRSan1101
 - WhatsApp: https://wa.me/YourNumber
 - Email: your.email@example.com
 
-## CV / Resume
+CV / Resume
+-----------
 
-Download CV: (add link to your PDF in the repo or hosted online)
+Download: add your CV PDF to `assets/` (for example `assets/Tharsan-CV.pdf`) and update `index.html` to point to it.
+
+Design notes
+------------
+
+- Theme: high‑contrast monochrome (black & white) for a professional, timeless look.
+- Layout: concise hero, skills, projects grid, contact CTA. Use subtle motion (typing effect) and smooth scroll.
+
+Publishing
+----------
+
+To publish on GitHub Pages, enable Pages in your repository settings (source: main / root), or use the included GitHub Actions workflow to auto‑deploy from `main`.
 
 ---
 
-Design notes:
-- Color palette: Dark #0a0a0a, Light #fafafa, Accent #1db954 (green), #00aaff (blue)
-- Suggestions: typing effect for titles, theme toggle, smooth scroll, hover effects for skill badges
-
-Tip: To publish this repo as your GitHub Pages site, create a branch or use main and enable GitHub Pages in repo settings pointing to the root or `docs/` folder.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaRSan1101&show_icons=true&theme=transparent)
 
 
 ### 📈 GitHub Stats

@@ -2,32 +2,34 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Tharsan — Full-Stack Developer</title>
-    <link rel="stylesheet" href="assets/style.css" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tharsan — Full‑Stack Developer</title>
+  <meta name="description" content="Tharsan — Full‑Stack Developer. Modern web apps, AI/ML explorer. Portfolio and contact." />
+  <link rel="stylesheet" href="assets/style.css" />
   </head>
   <body>
     <header class="site-header">
       <div class="container">
-        <h1 class="title">Hi, I’m <span class="name">Tharsan</span> <span class="wave">👋</span></h1>
+        <h1 class="title">Tharsan <span class="wave">—</span> <small>Full‑Stack Developer</small></h1>
         <p class="subtitle">&lt; <span id="typed"></span> /&gt;</p>
-        <div class="links">
+        <nav class="links">
+          <a href="#projects">Projects</a>
+          <a href="#skills">Skills</a>
+          <a href="#contact">Contact</a>
           <a href="https://github.com/ThaRSan1101" target="_blank">GitHub</a>
-          <a href="https://www.linkedin.com/in/ThaRSan1101" target="_blank">LinkedIn</a>
-          <a href="https://wa.me/YourNumber" target="_blank">WhatsApp</a>
-        </div>
-        <div class="cta">
+        </nav>
+        <div class="header-actions">
           <a href="#projects" class="btn">See projects</a>
-          <a href="assets/CV-README.txt" class="btn ghost" download>Download CV</a>
+          <a id="cvLink" href="assets/CV-README.txt" class="btn ghost" download>Download CV</a>
+          <button id="themeToggle" class="theme-toggle" aria-pressed="false">Theme</button>
         </div>
-        <button id="themeToggle" class="theme-toggle">Toggle theme</button>
       </div>
     </header>
 
     <main class="container">
       <section id="about">
         <h2>About</h2>
-        <p>I’m a Full-Stack Developer with 2+ years of experience. I build modern web apps and explore AI/ML.</p>
+        <p>I’m a Full‑Stack Developer with 2+ years of experience. I build modern, performant web apps and am exploring AI/ML integrations.</p>
       </section>
 
       <section id="skills">
@@ -44,7 +46,20 @@
 
       <section id="projects">
         <h2>Projects</h2>
-        <p>5+ projects including academic and freelance work. Add links to each repo or live demo here.</p>
+        <div class="projects-grid">
+          <article class="card">
+            <h3>Project A</h3>
+            <p>Full‑stack app — React + Node.js. <a href="#">Repo</a> • <a href="#">Live</a></p>
+          </article>
+          <article class="card">
+            <h3>Project B</h3>
+            <p>Responsive e‑commerce prototype. <a href="#">Repo</a></p>
+          </article>
+          <article class="card">
+            <h3>Project C</h3>
+            <p>University capstone. <a href="#">Repo</a></p>
+          </article>
+        </div>
       </section>
 
       <section id="contact">
