@@ -1,16 +1,35 @@
-### 👋 Hi, I'm Arultharisan
+﻿1 Your Personalized Content
 
-🎓 Computer Science undergraduate at Uva Wellassa University <br>
-💻 Passionate about Full-Stack Development  <br>
-🌱 Currently learning: Linux, React, PHP <br>
-🚀 Exploring open-source and contributing to cool projects  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/tharisan0111) | [Email](ariltharisan01@gmail.com)
+Hi , I'm Tharsan
 
-### 🛠️ Skills
-- 💻 Languages: C, Java, HTML, CSS, JavaScript
-- 🧠 Frameworks & Tools: React, Git, MySQL
-- 🎨 Also interested in: UI/UX Design, Video Editing, ML & Test Engineering
+A Full-Stack Developer & AI/ML enthusiast from Uva Wellassa University (UWU), Sri Lanka.  
+Started coding at the age of 15 and have since worked on 5+ projects spanning academic, freelance, and personal work.
 
-### 📈 GitHub Stats
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaRSan1101&show_icons=true&theme=radical) <br>
+ Im currently learning Machine Learning, AI, and advanced full-stack technologies.
 
+ Reach me via email: tharsan@example.com
+
+Connect with me:
+- LinkedIn: https://www.linkedin.com/in/ThaRSan1101
+- GitHub: https://github.com/ThaRSan1101
+- WhatsApp: https://wa.me/YourNumber
+
+Languages and Tools:  
+C, Java, JavaScript, HTML, CSS, PHP, SQL, React, Node.js, Tailwind CSS, MySQL, Git, Linux, Docker, AWS, Vercel, Netlify, REST APIs, Postman, Bootstrap
+
+---
+
+2 Suggested VS Code Copilot Prompt
+
+Use this prompt in VS Code Copilot to generate a portfolio section or README component:
+
+Create a modern portfolio/README section in HTML (or React) with the following details:
+
+- Header: "Hi , I'm Tharsan"
+- Subtitle: "Full-Stack Developer & AI/ML enthusiast from Uva Wellassa University (UWU), Sri Lanka"
+- Short bio: "Started coding at the age of 15 and have since worked on 5+ projects spanning academic, freelance, and personal work."
+- Learning section: " Currently learning Machine Learning, AI, and advanced full-stack technologies"
+- Contact section with email and social links (LinkedIn, GitHub, WhatsApp)
+- Skills section: show all programming languages, frameworks, and tools as badges or chips
+- Design style: modern, responsive, minimal, with dark/light theme toggle
+- Optional: add small animations for the header and skill badges
