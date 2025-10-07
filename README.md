@@ -17,7 +17,7 @@
 
 <br>
 
-## 🌐 Connect with me 
+<h2 align="center">🌐 Connect with me</h2>
 <p align="center">
 <a href = "https://www.linkedin.com/in/tharisan0111/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/ThaRSan1101" target="blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
@@ -94,7 +94,7 @@ const tharisan = {
 
 <br>
 
-## � GitHub Overview
+<h2 align="center">📊 GitHub Overview</h2>
 <p align="center">
  <img title="Get streak stats for your profile at git.io/streak-stats" alt="ThaRSan1101's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ThaRSan1101&theme=blue-green&border_radius=6&mode=weekly"/>
 </p>
