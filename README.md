@@ -1,22 +1,30 @@
-﻿<h2 align="center">Hi 👋, I'm Yoganathan Arultharisan</h2>
+﻿<h2 align="center" style="color: white;">Hi 👋, I'm Arultharisan</h2>
+
+<h3 align="center"><b><i>Computer Science Undergraduate Student at Uva Wellassa University of Sri Lanka</i></b></h3>
+
+<p align="center"><em>Full-Stack Developer & AI/ML Enthusiast</em></p>
 
 <!-- Replace the GIF with a video thumbnail linking to assets/video.mp4 -->
 <div align="center">
 <a href="assets/video.mp4"><img src="assets/thumb.png" width="100%" alt="Watch my intro video"></a>
 </div>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ThaRSan1101&color=blue&style=flat-square" />
+</p>
+
 ---
 
 <br>
 
-<p align="center"><em>Full-Stack Developer & AI/ML Enthusiast — Uva Wellassa University (UWU), Sri Lanka</em></p>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Yoganathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tharisan0111/)](https://www.linkedin.com/in/tharisan0111/)
-[![GitHub followers](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ThaRSan1101/ThaRSan1101)
-
-</div>
+## 🌐 Connect with me 
+<p align="center">
+<a href = "https://www.linkedin.com/in/tharisan0111/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/ThaRSan1101" target="blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+<a href = "https://wa.me/94715112782" target="blank"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png"/></a>
+<a href="mailto:arultharisan01@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+</a>
+</p>
 
 <br>
 
@@ -86,19 +94,38 @@ const tharisan = {
 
 <br>
 
-<h3 align="center">📊 GitHub Overview</h3>
+## � GitHub Overview
+<p align="center">
+ <img title="Get streak stats for your profile at git.io/streak-stats" alt="ThaRSan1101's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ThaRSan1101&theme=blue-green&border_radius=6&mode=weekly"/>
+</p>
 
-<table border="0" cellpadding="0" cellspacing="0"><tr>
-<td valign="top"> 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ThaRSan1101&show_icons=true&theme=blue-green" alt="ThaRSan1101 | Stats" />
+</div>
 
-![Tharisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaRSan1101&show_icons=true&theme=tokyonight)
+<br>
 
-</td>
-<td valign="top"> 
+<div align="center">
+<img alt="Top languages used in repo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaRSan1101&theme=blue-green&layout=compact" height="192px"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaRSan1101&layout=compact&theme=tokyonight)
+<br>
 
-</td>
-</tr></table>
+<div align="center">
+        <img title="Top languages by repo" alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThaRSan1101&theme=blue_green"/>
+        <img title="Top languages by commit" alt="Top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThaRSan1101&theme=blue_green"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h4 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝚅𝚒𝚜𝚒𝚝 🤝
+  </br>
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚍𝚊𝚢 ! 
+</h4>
+</br>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/ThaRSan1101/ThaRSan1101?logo=github&style=for-the-badge"/>
+</p>
 
 
