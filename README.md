@@ -1,8 +1,8 @@
 ﻿<h2 align="center" style="color: white;">Hi 👋, I'm Arultharisan</h2>
 
-<p align="center"><em>Aspiring Full-Stack Developer & AI/ML Enthusiast</em></p>
+<h3 align="center"><b><i>Computer Science Undergraduate Student at Uva Wellassa University of Sri Lanka</i></b></h3>
 
----
+<p align="center"><em>Aspiring Full-Stack Developer & AI/ML Enthusiast</em></p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ThaRSan1101&color=blue&style=flat-square" />
@@ -77,11 +77,11 @@ const tharisan = {
 ## 📫 Let's Connect
 💼 **LinkedIn:** [linkedin.com/in/tharisan0111/](https://linkedin.com/in/tharisan0111/)  
 🌐 **Portfolio:** [https://tharsan-portfolio-web.vercel.app/](https://tharsan-portfolio-web.vercel.app/)  
-📧 **Email:** [     arultharisan01@gmail.com](mailto:arultharisan01@gmail.com)
+📧 **Email:** [arultharisan01@gmail.com](mailto:arultharisan01@gmail.com)
 
 ---
 
-<h4 align="center">
+<h4 align="left">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝚅𝚒𝚜𝚒𝚝 🤝
   </br>
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚍𝚊𝚢 ! 
