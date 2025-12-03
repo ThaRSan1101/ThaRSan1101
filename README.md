@@ -75,8 +75,8 @@ const tharisan = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect
-💼 **LinkedIn:** [linkedin.com/in/tharisan0111/](https://linkedin.com/in/tharisan0111/)
 🌐 **Portfolio:** [https://tharsan-portfolio-web.vercel.app/](https://tharsan-portfolio-web.vercel.app/)
+💼 **LinkedIn:** [linkedin.com/in/tharisan0111/](https://linkedin.com/in/tharisan0111/)
 
 <h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝚅𝚒𝚜𝚒𝚝 🤝
