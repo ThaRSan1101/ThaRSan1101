@@ -76,7 +76,8 @@ const tharisan = {
 
 ## 📫 Let's Connect
 💼 **LinkedIn:** [linkedin.com/in/tharisan0111/](https://linkedin.com/in/tharisan0111/)  
-🌐 **Portfolio:** [https://tharsan-portfolio-web.vercel.app/](https://tharsan-portfolio-web.vercel.app/)
+🌐 **Portfolio:** [https://tharsan-portfolio-web.vercel.app/](https://tharsan-portfolio-web.vercel.app/)  
+📧 **Email:** [arultharisan01@gmail.com](mailto:arultharisan01@gmail.com)
 
 <h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝚅𝚒𝚜𝚒𝚝 🤝
