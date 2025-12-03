@@ -2,12 +2,7 @@
 
 <h3 align="center"><b><i>Computer Science Undergraduate Student at Uva Wellassa University of Sri Lanka</i></b></h3>
 
-<p align="center"><em>Full-Stack Developer & AI/ML Enthusiast</em></p>
-
-<!-- Replace the GIF with a video thumbnail linking to assets/video.mp4 -->
-<div align="center">
-<a href="assets/video.mp4"><img src="assets/thumb.png" width="100%" alt="Watch my intro video"></a>
-</div>
+<p align="center"><em>Aspiring Full-Stack Developer & AI/ML Enthusiast</em></p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ThaRSan1101&color=blue&style=flat-square" />
@@ -37,7 +32,7 @@
 ```javascript
 const tharisan = {
 	name: "Yoganathan Arultharisan",
-	role: "Full-Stack Developer & AI/ML Enthusiast",
+	role: "Aspiring Full-Stack Developer & AI/ML Enthusiast",
 	university: "Uva Wellassa University (UWU), Sri Lanka",
 	projects: ">=5 (academic, freelance, personal)",
 	learning: ["Machine Learning", "Artificial Intelligence", "Advanced Full-Stack Development"],
