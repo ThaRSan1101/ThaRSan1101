@@ -81,7 +81,7 @@ const tharisan = {
 
 ---
 
-<h4 align="left">
+<h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝚅𝚒𝚜𝚒𝚝 🤝
   </br>
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚍𝚊𝚢 ! 
