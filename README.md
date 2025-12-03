@@ -12,17 +12,6 @@
 
 <br>
 
-<h2 align="center">🌐 Connect with me</h2>
-<p align="center">
-<a href = "https://www.linkedin.com/in/tharisan0111/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/ThaRSan1101" target="blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-<a href = "https://wa.me/94715112782" target="blank"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png"/></a>
-<a href="mailto:arultharisan01@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
-</a>
-</p>
-
-<br>
-
 ---
 
 <br>
@@ -112,6 +101,10 @@ const tharisan = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Let's Connect
+💼 **LinkedIn:** [linkedin.com/in/tharisan0111/](https://linkedin.com/in/tharisan0111/)
+🌐 **Portfolio:** [https://tharsan-portfolio-web.vercel.app/](https://tharsan-portfolio-web.vercel.app/)
 
 <h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝚅𝚒𝚜𝚒𝚝 🤝
