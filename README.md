@@ -72,34 +72,6 @@ const tharisan = {
 
 </div>
 
-<br>
-
----
-
-<br>
-
-<h2 align="center">📊 GitHub Overview</h2>
-<p align="center">
- <img title="Get streak stats for your profile at git.io/streak-stats" alt="ThaRSan1101's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ThaRSan1101&theme=blue-green&border_radius=6&mode=weekly"/>
-</p>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ThaRSan1101&show_icons=true&theme=blue-green" alt="ThaRSan1101 | Stats" />
-</div>
-
-<br>
-
-<div align="center">
-<img alt="Top languages used in repo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaRSan1101&theme=blue-green&layout=compact" height="192px"/>
-</div>
-
-<br>
-
-<div align="center">
-        <img title="Top languages by repo" alt="Top languages by repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThaRSan1101&theme=blue_green"/>
-        <img title="Top languages by commit" alt="Top languages by commit" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThaRSan1101&theme=blue_green"/>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect
