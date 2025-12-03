@@ -67,10 +67,14 @@ const tharisan = {
 </div>
 
 
+<div align="center">
+
 ## 📫 Let's Connect
 💼 **LinkedIn:** [linkedin.com/in/tharisan0111/](https://linkedin.com/in/tharisan0111/)  
 🌐 **Portfolio:** [https://tharsan-portfolio-web.vercel.app/](https://tharsan-portfolio-web.vercel.app/)  
 📧 **Email:** [arultharisan01@gmail.com](mailto:arultharisan01@gmail.com)
+
+</div>
 
 ---
 
