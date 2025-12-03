@@ -69,9 +69,13 @@ const tharisan = {
 
 <h2 align="center">📫 Let's Connect</h2>
 
-💼 **LinkedIn:** [linkedin.com/in/tharisan0111/](https://linkedin.com/in/tharisan0111/)  
-🌐 **Portfolio:** [https://tharsan-portfolio-web.vercel.app/](https://tharsan-portfolio-web.vercel.app/)  
-📧 **Email:** [arultharisan01@gmail.com](mailto:arultharisan01@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharisan0111/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://tharsan-portfolio-web.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arultharisan01@gmail.com)
+
+</div>
 
 <h4 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝚅𝚒𝚜𝚒𝚝 🤝
