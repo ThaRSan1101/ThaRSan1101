@@ -23,6 +23,7 @@ const tharisan = {
 		email: "arultharisan01@gmail.com",
 	linkedin: "https://www.linkedin.com/in/tharisan0111/",
 		github: "https://github.com/ThaRSan1101",
+		portfolio: "https://tharsan-portfolio-web.vercel.app/",
 		whatsapp: "https://wa.me/94715112782"
 	},
 	skills: {
